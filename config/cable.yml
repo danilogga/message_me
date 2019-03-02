@@ -7,4 +7,4 @@ test:
 production:
   adapter: redis
   url: redis://redistogo:c3c5cd14f6fd385675364bffe2052dde@dory.redistogo.com:9587/
-  channel_prefix: chatroom_channel
+#  channel_prefix: message_me_production
